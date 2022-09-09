@@ -2,7 +2,7 @@
 A study about communicating with events
 -------------------------------------------------------------------
 
-Some bsics and fundamentals concepts about events:
+Some basics and fundamentals concepts about events:
 **the ting:** button, input image...    **the event type:** click, hits return, mouseover... **the code to run:**change the color, get search results, display the image caption...
 
 -------------------------------------------------------------------
