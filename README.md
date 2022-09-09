@@ -3,10 +3,15 @@ A study about communicating with events
 -------------------------------------------------------------------
 Some bsics and fundamentals concepts about events:
 **the ting**    **event type**      **the code to run**
+&nbsp;
 button      click           chage the color
+&nbsp;
 input       hits return     get search results
+&nbsp;
 image       mouseover       display the image caption
+&nbsp;
 ...         ...             ...
+&nbsp;
 
 -------------------------------------------------------------------
 
